@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#e8dccc</color>
+    <color name="purple_700">#373234</color>
+    <color name="teal_200">#AEAEAE</color>
+    <color name="teal_700">#d84339</color>
+    <color name="rating">#FFBF00</color>
+    <color name="black">#232323</color>
+    <color name="grey">#45484A</color>
+    <color name="lightgrey">#707273</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cream">#D6D6D6</color>
+    <color name="transparant">#00FFFFFF</color>
+
+
+    <color name="background">#e5243f</color>
+    <color name="main">#f7b15c</color>
+
+    <color name="bug">#90C12C</color>
+    <color name="dark">#5A5366</color>
+    <color name="dragon">#096DC4</color>
+    <color name="electric">#F3D23B</color>
+    <color name="fairy">#EC8FE6</color>
+    <color name="fighting">#CE4069</color>
+    <color name="fire">#FF9C54</color>
+    <color name="flying">#92AADE</color>
+    <color name="ghost">#5269AC</color>
+    <color name="grass">#63BB5B</color>
+    <color name="ground">#D97746</color>
+    <color name="ice">#74CEC0</color>
+    <color name="normal">#9099A1</color>
+    <color name="poison">#AB6AC8</color>
+    <color name="psychic">#F97176</color>
+    <color name="rock">#C6B68A</color>
+    <color name="steel">#5A8EA1</color>
+    <color name="water">#4D90D5</color>
+</resources>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.sefford:circular-progress-drawable:1.31@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cd43e55e403fc97ef1fffa3d716aa341/circular-progress-drawable-1.31/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cd43e55e403fc97ef1fffa3d716aa341/circular-progress-drawable-1.31/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cd43e55e403fc97ef1fffa3d716aa341/circular-progress-drawable-1.31/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sefford/circular-progress-drawable/1.31/53d48a7199fefba23471d01c842b7f785781371d/circular-progress-drawable-1.31-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sefford/circular-progress-drawable/1.31/1542b54aadad54b25cd8e5b694aade9a2bc6e81f/circular-progress-drawable-1.31-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

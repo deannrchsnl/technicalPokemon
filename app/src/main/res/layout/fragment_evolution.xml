@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingVertical="12dp"
+    android:paddingHorizontal="16dp">
+
+    <ImageView
+        android:id="@+id/ivEvol1"
+        android:layout_width="60dp"
+        android:layout_gravity="center"
+        android:layout_height="60dp"
+        android:src="@drawable/type_steel"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginHorizontal="8dp"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/tvLv1"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:textSize="11sp"
+            android:textColor="@color/teal_700"
+            android:layout_marginBottom="6dp"
+            android:text="level 1"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/teal_200"/>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/ivEvol2"
+        android:layout_width="60dp"
+        android:layout_gravity="center"
+        android:layout_height="60dp"
+        android:src="@drawable/type_steel"/>
+    <LinearLayout
+        android:id="@+id/lyLv2"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginHorizontal="8dp"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/tvLv2"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:textSize="11sp"
+            android:textColor="@color/teal_700"
+            android:layout_marginBottom="6dp"
+            android:text="level 1"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/teal_200"/>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/ivEvol3"
+        android:layout_width="60dp"
+        android:layout_gravity="center"
+        android:layout_height="60dp"
+        android:src="@drawable/type_steel"/>
+</LinearLayout>
